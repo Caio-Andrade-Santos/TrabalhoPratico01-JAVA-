@@ -21,7 +21,7 @@ public class TP01Ex01 {
      *     1. Entrar via teclado com a base e a altura de um retângulo, calcular e exibir sua área.
      */
         
-        Scanner scanner = new Scanner(System.in);
+       Scanner scanner = new Scanner(System.in);
         double area, base, altura;
         
         System.out.print("Digite a base do triâgulo: ");
@@ -29,12 +29,17 @@ public class TP01Ex01 {
         
         System.out.print("Digite a base do triâgulo: ");
          altura = scanner.nextDouble();
+        if( base != altura)
+        {
+        area = base * altura;
         
-         area = base * altura;
-        
-        System.out.println("A area é: " + area);
-        
-        // 4. Fechar o scanner
+        System.out.println("A área é: " + area);
+        }
+        else
+        {
+            System.out.println("Os valores digitados são iguais, a forma geométrica não é um retangulo!");
+        }
+       
         scanner.close();
         
     }
