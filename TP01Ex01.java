@@ -24,10 +24,10 @@ public class TP01Ex01 {
        Scanner scanner = new Scanner(System.in);
         double area, base, altura;
         
-        System.out.print("Digite a base do triâgulo: ");
+         System.out.print("Digite a base do retâgulo: ");
          base = scanner.nextDouble();
         
-        System.out.print("Digite a base do triâgulo: ");
+        System.out.print("Digite a base do retâgulo: ");
          altura = scanner.nextDouble();
         if( base != altura)
         {
