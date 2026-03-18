@@ -13,8 +13,7 @@ import java.lang.Math;
 public class TP01Ex11 {
     /*Nomes: Caio Andrade, Alexandre Zampiere
             
-    10. Entrar via teclado com o valor de uma temperatura em graus Celsius, calcular e
-exibir sua temperatura equivalente em Fahrenheit. */
+    11. A partir do diâmetro de um círculo que será digitado, calcular e exibir sua área */
 
     /**
      * @param args the command line arguments
@@ -24,13 +23,14 @@ exibir sua temperatura equivalente em Fahrenheit. */
         double diametro = 0;
         double raio = 0;
         double area = 0 ;
+        double pi = Math.PI;
        
         
         System.out.println("Digite o diametro do circulo");
         Scanner scan= new Scanner(System.in); // Pode ser reutilizado
         diametro = scan.nextDouble();
         raio = diametro/2;
-        area = Math.pow(raio,2) * 3.14;
+        area = Math.pow(raio,2) * pi;
         System.out.println("A aréa da circunferencia" + area); 
     }
     
