@@ -1,4 +1,4 @@
-📘 Lista de Exercícios em Java
+ Lista de Exercícios em Java
 
 Este repositório contém uma lista de exercícios desenvolvidos na linguagem Java, com foco em lógica de programação e conceitos matemáticos básicos.
 
