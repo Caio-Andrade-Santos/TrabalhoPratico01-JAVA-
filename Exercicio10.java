@@ -2,14 +2,14 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package exercicio10;
+package TP01Ex10;
 import java.util.Scanner;
 
 /**
  *
  * @author cavia
  */
-public class Exercicio10 {
+public class TP01Ex10 {
     /*Nomes: Caio Andrade, Alexandre Zampiere
             
     10. Entrar via teclado com o valor de uma temperatura em graus Celsius, calcular e
