@@ -16,6 +16,7 @@ public class TP01Ex06 {
      */
     public static void main(String[] args) {
         // 6. Calcular e exibir a média aritmética de quatro valores quaisquer que serão digitados.
+        //Alexandre Zampieri, Caio Andrade 
         int i = 1;
              Scanner scanner = new Scanner(System.in);
              double valorDigitado = 0, soma = 0;
