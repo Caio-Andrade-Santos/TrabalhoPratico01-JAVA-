@@ -16,6 +16,7 @@ public class TP01Ex07 {
      */
     public static void main(String[] args) {
         // 7. Calcular e exibir a média geométrica de dois valores quaisquer que serão digitados.
+        //Alexandre Zampieri, Caio Andrade 
         Scanner scanner = new Scanner(System.in);
         double n1,n2;
         
