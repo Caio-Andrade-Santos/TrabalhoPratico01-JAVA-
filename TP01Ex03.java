@@ -17,6 +17,7 @@ public class TP01Ex03 {
      */
     public static void main(String[] args) {
         // 3. Calcular e exibir a área de um quadrado a partir do valor de sua diagonal que será digitado.
+        //Alexandre Zampieri, Caio Andrade 
         
             double diagonal, area;
              Scanner scanner = new Scanner(System.in);
