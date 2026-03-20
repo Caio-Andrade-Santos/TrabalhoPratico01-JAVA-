@@ -18,6 +18,7 @@ public class TP01Ex02 {
      */
     public static void main(String[] args) {
         // 2. Calcular e exibir a área de um quadrado, a partir do valor de sua aresta que será digitado.
+        //Alexandre Zampieri, Caio Andrade 
             Scanner scanner = new Scanner(System.in);
 
         double area, aresta;
