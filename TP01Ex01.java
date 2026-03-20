@@ -27,7 +27,7 @@ public class TP01Ex01 {
          System.out.print("Digite a base do retâgulo: ");
          base = scanner.nextDouble();
         
-        System.out.print("Digite a base do retâgulo: ");
+        System.out.print("Digite a altura do retâgulo: ");
          altura = scanner.nextDouble();
         if( base != altura)
         {
