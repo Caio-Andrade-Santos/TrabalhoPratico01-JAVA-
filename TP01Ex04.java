@@ -17,6 +17,7 @@ public class TP01Ex04 {
      */
     public static void main(String[] args) {
         // 4. A partir dos valores da base e altura de um triângulo, calcular e exibir sua área.
+        //Alexandre Zampieri, Caio Andrade 
             double base, altura, area;
              Scanner scanner = new Scanner(System.in);
              
