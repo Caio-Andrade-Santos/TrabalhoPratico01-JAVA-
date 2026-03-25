@@ -44,7 +44,7 @@ IDE (ex: NetBeans, IntelliJ ou Eclipse)
 
  Como Executar
 Clone este repositório:
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Caio-Andrade-Santos/TrabalhoPratico01-JAVA-.git
 Abra o projeto em sua IDE Java.
 Execute os arquivos individualmente conforme o exercício desejado.
 
