@@ -49,7 +49,6 @@ Abra o projeto em sua IDE Java.
 Execute os arquivos individualmente conforme o exercício desejado.
 
  Observações
- Cada exercício foi desenvolvido de forma independente.
 Os programas utilizam entrada de dados via teclado.
 Os cálculos seguem fórmulas matemáticas padrão.
 Cada exercício foi desenvolvido de forma independente.
