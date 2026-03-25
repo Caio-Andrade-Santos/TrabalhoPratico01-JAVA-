@@ -1,6 +1,7 @@
  Lista de Exercícios em Java
 
 Este repositório contém uma lista de exercícios desenvolvidos na linguagem Java, com foco em lógica de programação e conceitos matemáticos básicos.
+Cada video dos programas rodandos seguem o mesmo nome referente a classe em si. Ex: TP01Ex01.java (projeto/classe java)-> TP01Ex01.mp4 (video do code rodando).
 
  Autores:
 Alexandre Zampieri Salles,
