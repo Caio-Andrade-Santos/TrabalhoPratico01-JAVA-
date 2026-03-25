@@ -40,7 +40,7 @@ Calcular o troco a partir da soma de produtos.
 
  Tecnologias Utilizadas
 Java
-IDE (ex: NetBeans, IntelliJ ou Eclipse)
+IDE: NetBeans
 
  Como Executar
 Clone este repositório:
